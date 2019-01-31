@@ -4,8 +4,7 @@
   "description": "A React pagination UI component ",
   "main": "index.js",
   "scripts": {
-    "test": "jest __tests__",
-    "prepare": "tsc -p ."
+    "test": "jest __tests__"
   },
   "repository": {
     "type": "git",
